@@ -1,7 +1,9 @@
 Spotify UI Clone
+---
 
 A visually inspired clone of the Spotify web interface, built using only HTML and CSS. This project focuses on recreating the look and feel of Spotify’s desktop app, providing a responsive and interactive user experience without any JavaScript.
 
+---
 Features
 🎵 Modern Spotify-inspired layout
 
@@ -15,11 +17,15 @@ Features
 
 💡 Pure HTML & CSS (no frameworks or JavaScript)
 
+---
+
 Getting Started
 Prerequisites
 Any modern web browser (Chrome, Firefox, Edge, Safari)
 
 No build tools or dependencies required
+
+---
 
 Installation
 Clone the repository:
@@ -33,6 +39,8 @@ Double-click index.html
 OR
 
 Right-click index.html and select "Open with" → your browser
+
+---
 
 Project Structure
 text
